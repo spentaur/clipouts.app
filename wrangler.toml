@@ -1,5 +1,6 @@
 name = "clipoutsapp"
 type = "webpack"
+route = "clipouts.app/*"
 
 [site]
 bucket = "dist"
