@@ -1,0 +1,6 @@
+name = "clipoutsapp"
+type = "webpack"
+
+[site]
+bucket = "dist"
+entry-point = "workers-site"
